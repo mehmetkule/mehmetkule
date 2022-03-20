@@ -21,4 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetkule&show_icons=true&locale=en" alt="mehmetkule" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetkule&" alt="mehmetkule" /></p>
-<img src="https://github.com/mehmetkule/mehmetkule/blob/main/github-user-contribution%20(1).svg" alt="Snake animation" style="max-width: 100%;">
+<img src="https://github.com/mehmetkule/mehmetkule/blob/master/github-user-contribution%20(1).svg" alt="Snake animation" style="max-width: 100%;">
