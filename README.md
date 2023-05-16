@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
 <img src="https://github.com/mehmetkule/mehmetkule/blob/master/github-user-contribution%20(1).svg" alt="Snake animation" style="max-width: 100%;">
-<h1 align="center">Hi 👋, I'm Mehmet</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <h3 align="center">Connect with me:</h3>
